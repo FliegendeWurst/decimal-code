@@ -1,0 +1,7 @@
+decimal-code
+============
+
+Convert decimal numbers to BCD, AIKEN and STIBITZ (excess-3).
+
+Input lines are interpreted as space-separated encoding and value.
+Tab separated values (decimal, BCD, AIKEN, STIBITZ) are printed.
